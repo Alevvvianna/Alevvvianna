@@ -7,8 +7,13 @@
 </p> 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alevvvianna)](https://github.com/anuraghazra/github-readme-stats)
-
+ <div   align="center"  >
+    
+![Alevvvianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=alevvvianna&show_icons=true&theme=tokyonight)
+    
+</div>
+    
+    
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,12 +28,5 @@
   <a href="mailto:alevvvianna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-- 💻 Estou procuranco estágio no momento...
+- 💻 Estou procuranco estágio no momento... 
 - 📕 Estudando Java, JavaScript e SQL ...
-
