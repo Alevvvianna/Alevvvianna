@@ -28,7 +28,7 @@ I work in project management and business operations in the construction industr
 
 - Developing skills in data analysis and automation.
 - Exploring business systems for research, opportunity tracking and follow-up.
-- Connecting a Computer Science study background with practical operational problems.
+- Applying what I learned through Computer Science studies to practical operational problems.
 
 
 
@@ -43,7 +43,11 @@ This profile includes coursework, programming exercises and earlier learning pro
 
 
 
-[LinkedIn](https://www.linkedin.com/in/alexandra-vianna-776a95234/) · [Instagram](https://www.instagram.com/alevvvianna/)
+## Connect
+
+[Professional contact card — Thermal Core](https://thermalcoreinsulation.com/card/alexandra-vianna)
+
+[LinkedIn](https://www.linkedin.com/in/alexandra-vianna-776a95234/) · [Instagram](https://www.instagram.com/alevvvianna/) · [Facebook](https://www.facebook.com/alevvvianna) · [TikTok](https://www.tiktok.com/@alexandravianna37)
 
 
 
